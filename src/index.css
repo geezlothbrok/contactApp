@@ -1,0 +1,53 @@
+h4 {
+  background-color: #6ea0be;
+  color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form {
+  margin-left: 125px;
+  
+}
+
+.text {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+button {
+  background-color: #5499C7;
+  color: aliceblue;
+  padding: 20px;
+  font-size: 20px;
+  border-color: transparent;
+}
+
+input {
+  padding: 15px;
+  border-radius: 5px;
+  
+}
+
+.heading {
+  background-color: #5499C7;
+  color: aliceblue;
+  padding: 20px;
+  text-align: center;
+}
+
+.edit {
+  background-color: #349014 ;
+  margin-right: 15px;
+}
+
+.delete {
+  background-color: red;
+}
+
+.tittle {
+  background-color: #B3B6B7;
+  color: black;
+}
